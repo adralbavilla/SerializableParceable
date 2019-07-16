@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "788979562018",
+    "firebase_url": "https://examenandroid-68e04.firebaseio.com",
+    "project_id": "examenandroid-68e04",
+    "storage_bucket": "examenandroid-68e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788979562018:android:e96757fb25994f2b",
+        "android_client_info": {
+          "package_name": "com.example.adria.examenandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788979562018-micl6cjhpdg8elbtq8obr8d9mc90tces.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adria.examenandroid",
+            "certificate_hash": "0c1f3cb7918a4b01482673ac2577f76a9f5bc1f4"
+          }
+        },
+        {
+          "client_id": "788979562018-9nfrveu1sb539gfdvbodgj4sdk89oir7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1UKgeza_rY2GI0ojGlpGp9hqNk6T7C9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788979562018-9nfrveu1sb539gfdvbodgj4sdk89oir7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
